@@ -29,6 +29,7 @@ function AppArray() {
     carname: '',
     color: '',
   });
+  
   // 구조 분해 할당
   const { carname, color } = carInput;
 
